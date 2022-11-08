@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, React Native**
 
-- 💬 Ask me about **react, code**
+- 💬 Ask me about **Java, Android**
 
 - ⚡ Fun fact **I'm single**
 
