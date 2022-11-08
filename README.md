@@ -4,7 +4,7 @@
 <h3 align="center">A fresher mobile developer from Da Nang</h3>
 <img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg">
 
-- 🔭 I’m currently working on **DUT**
+- 🔭 I’m currently working on **Eclipse**
 
 - 🌱 I’m currently learning **Java, Kotlin, React Native**
 
