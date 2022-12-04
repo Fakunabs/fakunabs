@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1138%2F1*LH3LsT_dZGzI0FK4gUWGwQ.png&imgrefurl=https%3A%2F%2Flevelup.gitconnected.com%2Fhow-you-can-enter-apples-swift-programming-challenge-at-wwdc-2021-ddc11aea9ab4&tbnid=125sfF9acpSX3M&vet=12ahUKEwin6prK5N_7AhU43HMBHU-hAooQMygGegUIARC1AQ..i&docid=bEAXAtaq2KN0SM&w=569&h=296&q=ios%20developer%20challenge&hl=vi&ved=2ahUKEwin6prK5N_7AhU43HMBHU-hAooQMygGegUIARC1AQ#imgrc=uuSn-uc5y7ownM&imgdii=PUle8JHPvLlPzM)
+![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Thjnh</h1>
 <h3 align="center">A student-mobile developer from Da Nang</h3>
