@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **nothing**
 
-- ⚡ Fun fact **I'm single**
+- ⚡ Fun fact **I'm barista**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
