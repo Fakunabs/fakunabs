@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thjnh</h1>
 <h3 align="center">A student mobile developer from Da Nang</h3>
 <img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg">
-- 🔭 I’m currently working on **DUT**
+- 🔭 I’m currently working on **S-Group**
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
