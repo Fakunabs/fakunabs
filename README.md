@@ -7,8 +7,10 @@
   width="400"
   src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg"
 />
-- 🔭 I’m currently working on **S-Group** - 🌱 I’m currently learning **HTML,
-CSS, JS** - 💬 Ask me about **nothing** - ⚡ Fun fact **I'm barista**
+- 🔭 I’m currently working on **S-Group** - 
+- 🌱 I’m currently learning **HTML,CSS, JS** -
+-  💬 Ask me about **nothing** - 
+-  ⚡ Fun fact **I'm barista**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
