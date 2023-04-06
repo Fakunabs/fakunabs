@@ -6,9 +6,6 @@
   width="400"
   src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg"
 />
-<br />
-- 📝 I’m currently working on **S-Group** -
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
