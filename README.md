@@ -14,7 +14,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="fakunabs"
-      height="30"
+      height="35"
       width="40"
   /></a>
   <a href="https://linkedin.com/in/nguyenxuanthinh" target="blank"
@@ -22,7 +22,7 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="xuan thinh nguyen"
-      height="30"
+      height="35"
       width="40"
   /></a>
 </p>
