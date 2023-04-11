@@ -5,6 +5,7 @@
   alt="Coding"
   width="400"
   src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg"
+  style="margin-top: 60px"
 />
 
 <h3 align="left">Connect with me:</h3>
