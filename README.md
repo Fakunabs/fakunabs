@@ -27,14 +27,14 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My tech stack</h3>
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
       alt="swift"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   <a
@@ -45,24 +45,24 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
-  </a>
+  </a> -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://reactnative.dev/img/header_logo.svg"
       alt="reactnative"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
 </p>
