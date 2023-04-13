@@ -71,7 +71,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fakunabs&show_icons=true&locale=en&layout=compact"
-    alt="fakunabss"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cagdaseksi&show_icons=true&locale=en&layout=compact"
+    alt="fakunabs"
   />
 </p>
