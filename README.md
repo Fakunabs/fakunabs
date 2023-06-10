@@ -50,14 +50,14 @@
       height="50"
     />
   </a>
-<!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+      alt="dart"
       width="50"
       height="50"
     />
-  </a> -->
+  </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://reactnative.dev/img/header_logo.svg"
@@ -66,8 +66,15 @@
       height="50"
     />
   </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+      alt="flutter"
+      width="50"
+      height="50"
+    />
+  </a>
 </p>
-
 <p>
   <img
     align="center"
