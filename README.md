@@ -3,8 +3,9 @@
 <img
   align="right"
   alt="Coding"
-  width="400"
-  src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg"
+  width="450"
+  height="300"
+  src="https://codetoanbug.com/wp-content/uploads/2023/01/1-07.41.05.jpeg"
   style="margin-top: 60px"
 />
 
