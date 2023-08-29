@@ -2,11 +2,12 @@
 <h3 align="center">A student mobile developer from Da Nang</h3>
 <img
   align="right"
+  style="padding-top: 60px"
   alt="Coding"
   width="450"
   height="300"
   src="https://codetoanbug.com/wp-content/uploads/2023/01/1-07.41.05.jpeg"
-  style="margin-top: 60px"
+  style="margin-top: 60px;"
 />
 
 <h3 align="left">Connect with me:</h3>
