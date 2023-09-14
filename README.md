@@ -90,5 +90,6 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cagdaseksi&show_icons=true&locale=en&layout=compact"
     alt="fakunabs"
+    width="320"
   />
 </p>
