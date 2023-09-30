@@ -61,7 +61,7 @@
     />
     <a href="https://developer.apple.com/documentation/uikit/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/Fakunabs/UIKit/main/UIKit-removebg.png"
+      src="https://raw.githubusercontent.com/Fakunabs/UIKit/main/UIKit.png"
       alt="uikit"
       width="53"
       height="52"
