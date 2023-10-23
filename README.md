@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thjnh</h1>
-<h3 align="center">A student developer from Da Nang</h3>
+<h3 align="center">A mobile developer from Da Nang</h3>
 <img
   align="right"
   style="padding-top: 60px"
