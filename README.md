@@ -28,6 +28,12 @@
       height="35"
       width="40"
   /></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"
+    ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+       alt="youtube"
+       height="40"
+       width="40"
+  /></a>
 </p>
 
 <h3 align="left">My tech stack</h3>
