@@ -65,12 +65,12 @@
       width="50"
       height="50"
     />
-    <a href="https://developer.apple.com/documentation/uikit/" target="_blank" rel="noreferrer">
+    <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/Fakunabs/UIKit/main/UIKit.png"
-      alt="uikit"
+      src="https://raw.githubusercontent.com/Fakunabs/UIKit/main/swiftui.png"
+      alt="swiftui"
       width="53"
-      height="52"
+      height="53"
     />
   </a>
   </a>
