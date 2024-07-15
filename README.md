@@ -34,12 +34,6 @@
        height="40"
        width="40"
   /></a>
-  <a href="https://www.upwork.com/freelancers/~015eefbf0e9b798454?viewMode=1" target="blank"
-    ><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg"
-       alt="upwork"
-       height="40"
-       width="40"
-  /></a>
 </p>
 
 <h3 align="left">My tech stack</h3>
